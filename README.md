@@ -14,4 +14,4 @@ Working mostly on:
 Built [Fiziklah!](https://www.fiziklah.com) and currently building [Projeklah!](https://www.projeklah.com).  
 More about me! ➡️ [My Profile!](https://www.projeklah.com/profile)
 
-**P/S:** Help me or learn more about building the 'perfect' Gentoo machine! ➡️ [gentoo-configuration](https://www.projeklah.com/profile](https://github.com/hazimimdnazri/gentoo-configuration)https://github.com/hazimimdnazri/gentoo-configuration)
+**P/S:** Help me or learn more about building the 'perfect' Gentoo machine! ➡️ [gentoo-configuration](https://github.com/hazimimdnazri/gentoo-configuration)
