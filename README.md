@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello, there! 👋
 
-<!--
-**hazimimdnazri/hazimimdnazri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I'm a physicist-turned-software engineer. Still have a lot of interest in the field of physics but was thrown into IT field.
 
-Here are some ideas to get you started:
+Working mostly on:
+  - Human resoruce management system
+  - Point of sale system
+  - Booking management system
+  - inventory management system
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛡️ Involve mostly on software architectural designs and cybersecurity.  
+🐧 Avid linux user.
+
+Built [Fiziklah!](https://www.fiziklah.com) and currently building [Projeklah!](https://www.projeklah.com).  
+More about me! ➡️ [My Profile!](https://www.projeklah.com/profile)
