@@ -4,9 +4,9 @@
 
 Working mostly on:
   - Human resoruce management system
-  - Point of sale system
+  - Point of Sale system
   - Booking management system
-  - inventory management system
+  - Inventory management system
 
 🛡️ Involve mostly on software architectural designs and cybersecurity.  
 🐧 Avid linux user.
